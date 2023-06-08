@@ -1,9 +1,9 @@
 langchain==0.0.18
 PyPDF2==3.0.1
-python-dotenv==1.0.0
-streamlit==1.18.1
-openai==0.27.6
-faiss-cpu==1.7.4
+python-dotenv==0.9
+streamlit==1.18
+openai==0.27
+faiss-cpu==1.7
 altair<5
 tiktoken
  
@@ -12,5 +12,5 @@ tiktoken
 #huggingface-hub==0.14.1
 
 # uncomment to use instructor embeddings
-InstructorEmbedding==1.0.1
-sentence-transformers==2.2.2
+InstructorEmbedding==1.0
+sentence-transformers==2.2
